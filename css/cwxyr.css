@@ -35,7 +35,7 @@ html, body {
 }
 
 body {
-    background-image:  /*linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)),*/ url(https://cdn2.sublimerui.top/2021/02/01/wallhaven-p283me.jpg);
+    background-image: url(https://api.idream.ink/pic.php);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
