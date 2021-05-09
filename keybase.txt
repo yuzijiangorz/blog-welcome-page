@@ -1,0 +1,56 @@
+ ==================================================================
+https://keybase.io/caviar_x
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://caviar-x.top
+  * I am caviar_x (https://keybase.io/caviar_x) on keybase.
+  * I have a public key ASA3nclMvOxLEfIRL1jGkmnY712tiwjOPDdw_MzKWlzOuAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120379dc94cbcec4b11f2112f58c69269d8ef5dad8b08ce3c3770fcccca5a5cceb80a",
+      "host": "keybase.io",
+      "kid": "0120379dc94cbcec4b11f2112f58c69269d8ef5dad8b08ce3c3770fcccca5a5cceb80a",
+      "uid": "605bc8e12ef7e24fa2414744abd5d819",
+      "username": "caviar_x"
+    },
+    "merkle_root": {
+      "ctime": 1620568469,
+      "hash": "1b40e1cc0b5b96e9e05b70cb4d4b9fd248de631260a8413a892b43e1ff2640fb9d648acd2f3b88e2d1a8f26f341ec2c1bed3bd60d799254446f297e94c51995e",
+      "hash_meta": "fa3b3cdbb605617aff6cad1857dcd7f2670b5729b67bc581108538d82180a803",
+      "seqno": 19884732
+    },
+    "service": {
+      "entropy": "BLu1IOViFVrCnetFVqPPm7jp",
+      "hostname": "caviar-x.top",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1620568482,
+  "expire_in": 504576000,
+  "prev": "c91d889e21d96e1093a86763199941e34c8c47542c3a1da6fa1bede3d6d018b7",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgN53JTLzsSxHyES9YxpJp2O9drYsIzjw3cPzMylpczrgKp3BheWxvYWTESpcCBsQgyR2IniHZbhCTqGdjGZlB40yMR1QsOh2m+hvt49bQGLfEIPh0yY1tDdycuTCH9UVQCL4786tToCQUdo9qAdRA6S3qAgHCo3NpZ8RAhaLgyW9KxQNtLfIA8LLSXDFvP393N7vi9TuwoOW3LKlVsRZ4FGRhvBPWW4HvCqvrGINaHB6N5+D0EC7IV5KEAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIASVLdr77sMqApNHqO9IdCyrIDdmI24QNqFklU2/DIwko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caviar_x
+
+==================================================================
